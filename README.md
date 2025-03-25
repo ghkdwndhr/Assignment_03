@@ -1,5 +1,5 @@
 # 🚀 Assignment_03: Hand Gesture Interactive System
-[## 🎬 시연 영상 바로가기 클릭!](https://youtu.be/PVgp8ka9wCk?si=FIdV_Obq2eix7vOm)
+🎬 [**시연 영상 바로가기 클릭!**](https://youtu.be/PVgp8ka9wCk?si=FIdV_Obq2eix7vOm)
 
 ---
 
