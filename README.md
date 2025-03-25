@@ -1,5 +1,5 @@
 # 🚀 Assignment_03: Hand Gesture Interactive System
-[## 🎬 시연 영상 바로가기 클릭!](https://youtu.be/GRb3Zw2SlvE?si=sh6J7hy8Weq2XoFi)
+[## 🎬 시연 영상 바로가기 클릭!](https://youtu.be/0QAQ7Jd3vSM?si=dSr6M2JcM5zoeD_I)
 
 ---
 
@@ -79,6 +79,13 @@
 5. Manycam 또는 OBS Virtual Camera를 통해 Zoom 등 화상 플랫폼에 연동 가능
 
 ---
+
+## 🧠 제스처 인식 알고리즘 요약
+- 엄지, 검지, 중지 등 21개 손 랜드마크의 상대 위치 비교
+- 손가락 접힘 여부 판단: 관절들의 Y 좌표 비교
+- 제스처 간 구분: 거리 계산 + 방향 조건 조합
+
+－－－
 
 ## ⚠️ 주의사항
 - `index.html`에 아래 스크립트 포함 필수
